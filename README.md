@@ -9,3 +9,5 @@ I am building this to help myself learn front-end development,
 It will start out mainly just as a list of bands from the area, but
     I hope to eventually add a forum for discussion of the music and
     for members of the scene to tell their stories.
+
+Moved to new system
